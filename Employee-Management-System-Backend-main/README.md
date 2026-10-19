@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/elgazimohamed/Employee-Management-System-Backend.git
+   git clone [https://github.com/ujjawal101010/EmployeeManagementAPI.git]
 3. **Navigate to the project directory**
 
    ```sh
